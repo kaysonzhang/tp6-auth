@@ -3,7 +3,7 @@ personal
 
 # 安装
 ```
-composer require 5ini99/think-auth
+composer require kaysonzhang/tp6-auth
 ```
 # 配置
 
