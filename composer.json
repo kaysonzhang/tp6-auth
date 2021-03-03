@@ -15,8 +15,7 @@
         "issues": "https://github.com/kaysonzhang/tp6-auth/issues"
     },
     "require": {
-        "php": ">=8.0",
-        "topthink/framework": "^6.0"
+        "php": ">=8.0"
     },
     },
     "autoload": {
