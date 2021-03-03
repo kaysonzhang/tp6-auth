@@ -1,0 +1,32 @@
+{
+    "name": "kaysonzhang/tp6-auth",
+    "description": "auth package for thinkphp6",
+    "homepage": "https://github.com/kaysonzhang/tp6-auth",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "kaysonzhang",
+            "email": "313569855@qq.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/kaysonzhang/tp6-auth/issues"
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\kaysonzhang\\": "src/"
+        }
+    },
+    "extra": {
+        "think": {
+            "config": {
+                "auth": "src/config/auth.php"
+            }
+        }
+    }
+}
